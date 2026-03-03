@@ -1,4 +1,4 @@
-public class AddTwoNumbers {
+public class 2 {
     public static void main(String[] args) {
 
         int num1 = 15;
